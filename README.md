@@ -1,1 +1,1 @@
-# text_summarizer
+#text-summarization-project
